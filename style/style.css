@@ -43,7 +43,7 @@
   .flip-card-front {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 25px;
-    /*background-image: url(https://i.pinimg.com/736x/3d/89/ee/3d89ee8d1ca3d0810874d344998ddada.jpg);*/
+    background-image: url(https://i.pinimg.com/736x/3d/89/ee/3d89ee8d1ca3d0810874d344998ddada.jpg);
     color: black;
     background-size: cover;
     background-position: center;
